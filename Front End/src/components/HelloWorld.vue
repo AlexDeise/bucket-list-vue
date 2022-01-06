@@ -10,7 +10,7 @@
     </v-card>
     <v-col>
       <v-text-field
-      label="Movie Title"> </v-text-field>
+      label="Movie Title"></v-text-field>
     </v-col>
     <v-col>
       <v-text-field
