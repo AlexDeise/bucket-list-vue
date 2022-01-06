@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7di3UGjzNyt2GqiOn85HocbivRQLhqgxAGnNyzYlO0faASAbjLlayUBuGqYs6gwZc2T3vqOtK6DqAmFL38VlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fisch\\Desktop\\bucket-list-vue\\BackEnd\\BackEnd\\BackEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fisch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
